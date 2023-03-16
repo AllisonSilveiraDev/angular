@@ -1,0 +1,10 @@
+nav {
+  display: flex;
+  flex-wrap: wrap;
+}
+a {
+  text-decoration: none;
+  margin: 10px;
+  color: blue;
+  border: 2px solid rgb(0, 213, 255);
+}
